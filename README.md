@@ -12,5 +12,6 @@ This repository contains my lecture notes from graduate school on following topi
 ✨ *Some notes* ✨
 
 - Most of these notes aren't intended to teach a topic from scratch but are rather notes that I took and compiled during my midterm & finals, might help you remember things, study for exams, and prepare for job interviews.
-- There might be very small Turkish notes in few of the pages, you can ignore them.
+- There might be very small Turkish notes in few of the pages, you can ignore them. One or two of the pages might be not good visually. 
+- If you can improve the quality of handwritten notes or convert PDFs to JPEG, feel free to open a PR. (it's appreciated)
 - I will upload more notes as I find or create them. Will soon compile my Hugging Face cheatsheets so stay tuned!

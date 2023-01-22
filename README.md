@@ -15,3 +15,7 @@ This repository contains my lecture notes from graduate school on following topi
 - There might be very small Turkish notes in few of the pages, you can ignore them. One or two of the pages might be not good visually. 
 - If you can improve the quality of handwritten notes or convert PDFs to JPEG, feel free to open a PR. (it's appreciated)
 - I will upload more notes as I find or create them. Will soon compile my Hugging Face cheatsheets so stay tuned!
+
+*Updates* 🎉
+- I uploaded hierarchical clustering and improved version of K-means.
+- I compiled every lecture in separate PDFs, and also compiled those into single PDF, found under `Compiled PDF`s.

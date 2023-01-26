@@ -18,5 +18,5 @@ This repository contains my lecture notes from graduate school on following topi
 
 *Updates* 🎉
 - I uploaded hierarchical clustering and improved version of K-means.
-- I compiled every lecture in separate PDFs, and also compiled those into single PDF, found under `Compiled PDF`s in [HF repository](hf.co/datasets/merve/my_notes)(GitHub doesn't accept big files).
+- I compiled every lecture in separate PDFs, and also compiled those into single PDF, found under `Compiled PDF`s in [HF repository](https://hf.co/datasets/merve/my_notes)(GitHub doesn't accept big files).
 - I uploaded Hugging Face cheatsheets.
